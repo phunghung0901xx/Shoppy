@@ -1,7 +1,7 @@
 import React from "react";
 
 const ChartsHeader = () => {
-  return <div></div>;
+  return <div>11</div>;
 };
 
 export default ChartsHeader;
